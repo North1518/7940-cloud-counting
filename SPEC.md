@@ -16,4 +16,4 @@ D) Report the local news (HongKong) about the disease ( we try to use the data f
 
 Attention : <br>
 1.This is the first plan, all fictions achievement may not entire the same as the first plan. In another word, the plan maybe modify in some small case during the program development  <br>
-2.Our group three members have the final right to interpret the procedure.  <br.
+2.Our group three members have the final right to interpret the procedure.  <br>
